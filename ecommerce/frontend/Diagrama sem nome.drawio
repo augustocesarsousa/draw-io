@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T00:01:49.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="kbtEp6dmDz2ikPFAUeC8" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T00:32:32.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Q-YDyOGEXAPCtAKTKCPw" version="20.8.23" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1120" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
           <mxGeometry x="405" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ea6ffc3Ky_lU9VI0Lc0e-0" value="DIAGRAMA DE CASOS DE USO ESBOÇO" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="-310" width="270" height="90" as="geometry" />
+          <mxGeometry x="330" y="-310" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Oyahzc3uQ8iqcGAoUXIq-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="-10" width="120" height="80" as="geometry" />
